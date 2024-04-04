@@ -10,7 +10,7 @@ public class Triangle extends Shape{
 	}
 	
 	public Triangle(int width, int height) {
-		super("검정", "검정");
+		super("검정", "빨강");
 		this.width = width;
 		this.height = height;
 		System.out.println("생성자 Triangle(2) 실행");
